@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+Kneelocator
+seaborn
+sklearn
+importlib
+plotly
+streamlit
