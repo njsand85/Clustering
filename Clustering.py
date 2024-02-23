@@ -82,12 +82,6 @@ plt.legend(*sc.legend_elements(), bbox_to_anchor=(1.05, 1), loc=2)
 
 #UNDO THIS COMMENT
 #plt.show()
-import mpld3
-import streamlit.components.v1 as components
-fig_html = mpld3.fig_to_html(fig)
-components.html(fig_html, height=600)
-st.pyplot(fig)
-
 
 #What happens when outliers are removed from dataset
 '''
