@@ -3,7 +3,8 @@ os.environ["OMP_NUM_THREADS"] = '1'
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-from kneed import KneeLocator
+#Unblock?
+#from kneed import KneeLocator
 import seaborn as sns
 from sklearn.datasets import make_blobs
 from sklearn.cluster import KMeans
