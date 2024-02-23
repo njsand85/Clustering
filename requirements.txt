@@ -1,7 +1,7 @@
 numpy
 pandas
 matplotlib
-Kneelocator
+KneeLocator
 seaborn
 sklearn
 importlib
